@@ -21,7 +21,8 @@ INSERT INTO teams (team_name, player1, player2, top_seeded) VALUES
 ('Emanuel António / Carlos Martins', 'Emanuel António', 'Carlos Martins', FALSE),
 ('João Fernandes / Pedro Félix', 'João Fernandes', 'Pedro Félix', TRUE);
 
--- Grupo A
+
+-- Grupo A 
 INSERT INTO group_teams (group_id, team_id) VALUES
 (1, 1), (1, 2), (1, 3);
 

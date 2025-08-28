@@ -323,6 +323,7 @@ if __name__ == "__main__":
         </style>
         """
         
+        
         # Informação explicativa
         st.info("""
         🏆 **Como funcionam as eliminatórias:**

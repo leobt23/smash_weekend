@@ -63,6 +63,7 @@ cursor.execute("""
 """)
 
 
+
 db_connection.commit()
 cursor.close()
 db_connection.close()
